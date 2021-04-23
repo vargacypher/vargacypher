@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guilherme Vargas
 - 🌱 I’m currently working with Deep Learning and Computer Vision
-- 💞️ I’m looking to collaborate on Computer Vision
+- 💞️ I’m looking to collaborate on Computer Vision projects focused on histopathological analysis
 - 📫 How to reach me: vargas93626@gmail.com
 
 <!---
