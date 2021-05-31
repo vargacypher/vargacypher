@@ -4,6 +4,7 @@
 <h3 align="left"></h3>
 <p align="left">
 - 🌱 I’m currently working with Deep Learning and Computer Vision
+  </a>
 - 💞️ I’m looking to collaborate on Computer Vision projects focused on histopathological analysis
 
 <!---
