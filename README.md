@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently working with Deep Learning and Computer Vision
 - 💞️ I’m looking to collaborate on Computer Vision projects focused on histopathological analysis
-- 📫 How to reach me: vargas93626@gmail.com
 
 <!---
 vargacypher/vargacypher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/guilherme-vargas-238512107" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Guilherme Vargas" height="30" width="40" /></a>
+📫 How to reach me: vargas93626@gmail.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
