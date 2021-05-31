@@ -5,6 +5,7 @@
 <p align="left">
 </a>🌱 I’m currently working with Deep Learning and Computer Vision</a>
 💞️ I’m looking to collaborate on Computer Vision projects focused on histopathological analysis
+</p>
 
 <!---
 vargacypher/vargacypher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
