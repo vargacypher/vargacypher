@@ -1,7 +1,7 @@
 
 <h1 align="center">👋 Hi, I’m Guilherme Vargas<h1 align="center">
 
-<h3 align="left">:</h3>
+<h3 align="left"></h3>
 <p align="left">
 - 🌱 I’m currently working with Deep Learning and Computer Vision
 - 💞️ I’m looking to collaborate on Computer Vision projects focused on histopathological analysis
