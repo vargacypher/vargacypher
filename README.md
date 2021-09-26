@@ -5,7 +5,7 @@
 <p align="left">
 🌱 I’m currently working with Deep Learning and Computer Vision
 <p></p>
-💞️ I’m looking to collaborate on Computer Vision projects focused on histopathological analysis
+💞️ I’m looking to collaborate on Computer Vision projects
 </p>
 
 <!---
