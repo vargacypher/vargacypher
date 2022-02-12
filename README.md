@@ -4,7 +4,8 @@
 <h3 align="left"></h3>
 <p align="left">
 🌱 I’m currently working with Data analysis
-💞️ I’m looking to collaborate on backend projects
+  
+💞️ I’m looking to collaborate on API's projects
 </p>
 
 <!---
