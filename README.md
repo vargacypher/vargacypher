@@ -3,9 +3,8 @@
 
 <h3 align="left"></h3>
 <p align="left">
-🌱 I’m currently working with Deep Learning and Computer Vision
-<p></p>
-💞️ I’m looking to collaborate on Computer Vision projects
+🌱 I’m currently working with Data analysis
+💞️ I’m looking to collaborate on backend projects
 </p>
 
 <!---
