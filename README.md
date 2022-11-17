@@ -3,7 +3,7 @@
 
 <h3 align="left"></h3>
 <p align="left">
-🌱 I’m currently working as Data Engineer on OTO crm
+🌱 I’m currently working as Data Engineer
   
 💞️ I’m looking to collaborate on REST API's and IOT projects
 </p>
