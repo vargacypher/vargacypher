@@ -5,7 +5,7 @@
 <p align="left">
 🌱 I’m currently working as Data Engineer
   
-💞️ I’m looking to collaborate on REST API's and IOT projects
+💞️ I’m looking to collaborate on IOT projects
 </p>
 
 <!---
